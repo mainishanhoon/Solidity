@@ -65,9 +65,9 @@ contract Ecommerce {
 
     function destroy() public isNotDestroyed
     { 
-        require(Manager==msg.sender,"Only Manager can Destroy this Contract"); 
+        require(Manager == msg.sender,"Only Manager can Destroy this Contract"); 
         Manager.transfer(address(this).balance);
-        Destroyed=true; 
+        Destroyed = true; 
     }
 
     fallback() external payable
