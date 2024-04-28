@@ -6,13 +6,13 @@ The blockchain world has evolved tremendously in a short span of 14 years since 
 Introducing smart contract functionality is one of the most promising aspects of blockchain, letting developers base applications on the decentralised methodology.
 
 ### Key Takeaways
-> • Solidity is a new object-oriented language introduced by Ethereum creators. 
+• Solidity is a new object-oriented language introduced by Ethereum creators. 
 
-> • Solidity’s functionality allows developers to craft smart contracts swiftly, efficiently, and without technical complications. 
+• Solidity’s functionality allows developers to craft smart contracts swiftly, efficiently, and without technical complications. 
 
-> • Although Solidity is a brand-new language, it closely resembles Python and Java with its interface and syntax. 
+• Although Solidity is a brand-new language, it closely resembles Python and Java with its interface and syntax. 
 
-> • Solidity can be the next step in growing the blockchain industry, as it adds inherent value to decentralised networks.
+• Solidity can be the next step in growing the blockchain industry, as it adds inherent value to decentralised networks.
 
 ### First things First: What Is EVM and Smart Contract?
 As mentioned above, Solidity is a programming language developed by Ethereum creators. However, to truly understand the nature and implications of Solidity, it is vital to first familiarise ourselves with EVM and smart contracts. EVM stands for Ethereum Virtual Machine, a supercomputer behind the entire Ethereum network and its operations.
@@ -64,9 +64,11 @@ While the benefits of Solidity are plentiful and extremely promising for the fut
 ![Practical Implications](https://github.com/mainishanhoon/Solidity/assets/110257833/7a6e5804-18a3-4736-9cf0-3cd3fecad573)
 
 **Supply Chain Management** 
+
 The supply chains are some of the most excruciating and time-consuming tasks for any business. It takes several managers, daily correspondence, frequent inspections and rigorous monitoring to fulfil the necessary daily orders. While digital tools help out in this struggle, supply chain management is still far from an ideal solution. 
 With smart contracts, supply chain management can sometimes be simplified or even trivialised. The automated contracts will allow business owners to account for any conceivable development in the supply chain and program appropriate responses. Delivery is late? SCs can automatically notify the suppliers. Is the payment due? SCs can automatically send the cash to suppliers as per the receipts. The entire system can flow like water with the integration of smart contracts. 
 
 **Healthcare**
+
 It is no secret that healthcare is one of the most sensitive industries regarding private and personal data. While digital inventions simplify patient recording efforts, they are not secure or confidential. With SCs and the general decentralised functionality, patient information can become completely anonymous across the digital hospital servers. With this technology, patients can become confident that their data is observed and analysed only by the relevant figures and nobody else. 
 Additionally, SCs can assist hospitals and clinics in sharing data across the world in seconds, which will help doctors retrieve the latest updates on clinical trials and possibly even prevent global pandemics. Promptly retrieving data is paramount in the medical industry, and SCs can permanently solve this issue.
