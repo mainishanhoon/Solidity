@@ -2,35 +2,33 @@
 
 ![Understanding_Solidity](https://github.com/mainishanhoon/Solidity/assets/110257833/4ae8c534-92a6-487b-a867-883e5c728f62)
 
-The blockchain world has evolved tremendously in a short span of 14 years since its modest beginnings. In 2009, the only value stemming from blockchain technology was Bitcoin and its virtual currency. Although crypto offerings are still wildly popular in the blockchain family, this novel technology has interesting future implications. 
+The blockchain world has evolved tremendously in a short span of 14 years since its modest beginnings. In 2009, the only value stemming from blockchain technology was Bitcoin and its virtual currency.
 Introducing smart contract functionality is one of the most promising aspects of blockchain, letting developers base applications on the decentralised methodology.
 
 ## Key Takeaways
-• Solidity is a new object-oriented language introduced by Ethereum creators. 
+• Solidity is a high-level, statically typed, object-oriented programming language.
 
-• Solidity’s functionality allows developers to craft smart contracts swiftly, efficiently, and without technical complications. 
+• It was proposed in August 2014 by **Gavin Wood** and later developed by the Ethereum project's Solidity team, led by **Christian Reitwiessner**.
 
-• Although Solidity is a brand-new language, it closely resembles Python and Java with its interface and syntax. 
-
-• Solidity can be the next step in growing the blockchain industry, as it adds inherent value to decentralised networks.
+• Its functionality allows developers to craft smart contracts swiftly, efficiently, and without technical complications. 
 
 ### First things First: What Is EVM and Smart Contract?
-As mentioned above, Solidity is a programming language developed by Ethereum creators. However, to truly understand the nature and implications of Solidity, it is vital to first familiarise ourselves with EVM and smart contracts. EVM stands for Ethereum Virtual Machine, a supercomputer behind the entire Ethereum network and its operations.
+To truly understand the nature and implications of Solidity, it is vital to first familiarise ourselves with EVM and smart contracts. EVM stands for Ethereum Virtual Machine, a supercomputer behind the entire Ethereum network and its operations.
 
 ![Ethereum Virtual Machine](https://github.com/mainishanhoon/Solidity/assets/110257833/2f45a01c-9b09-4a1d-a06e-b271f5446b55)
 
 It is widely known that Ethereum is the most advanced and feature-rich network among the flagship crypto offerings, boasting more functionality than even Bitcoin itself. EVM is responsible for Ethereum’s unrivalled functionality, as it facilitates every activity on the network. However, validating and processing transactions is old news for blockchain networks. Where EVM gets interesting is its ability to produce smart contracts within the system. 
-Smart contracts (SCs) are the bread and butter of Ethereum, responsible for creating NFTs, decentralised applications, Web 3.0 tools, Metaverse video games and more. Without SCs, it would be impossible to task the decentralised networks to carry out any complex procedures.
+Smart contracts (SCs) are the bread and butter of Ethereum, responsible for creating NFTs, decentralised applications, Web 3.0 tools, Metaverse video games and more.
 
 ![Working of Smart Contract](https://github.com/mainishanhoon/Solidity/assets/110257833/baf859cc-e9d1-41ba-85af-3a450b8c2dba)
 
-In simple terms, SCs are the communication language that connects blockchain with any desired software. Thus, SCs allow developers and creators to power their digital creations with decentralised powers, resulting in numerous innovations in the blockchain field. 
-The combination of EVM and smart contracts has catapulted Ethereum to the forefront of blockchain innovations. After all, these functionalities were why Ethereum reached astronomical heights of success in the last decade. In 2023, Ethereum remains the biggest supporter of SC functionality and technological innovations related to blockchain methodology. With Solidity, Ethereum has again introduced an excellent mechanism to simplify creating smart contracts and building a decentralised digital future.
+In simple terms, SCs are the communication language that connects blockchain with any desired software.
+The combination of EVM and smart contracts has catapulted Ethereum to the forefront of blockchain innovations. After all, these functionalities were why Ethereum reached astronomical heights of success in the last decade. In 2024, Ethereum remains the biggest supporter of SC functionality and technological innovations related to blockchain methodology. With Solidity, Ethereum has again introduced an excellent mechanism to simplify creating smart contracts and building a decentralised digital future.
 
 ![Timeline](https://github.com/mainishanhoon/Solidity/assets/110257833/e9bf8bb1-14bf-49bf-8e9a-5731ec7f6940)
 
 ## Understanding the Solidity Programming Language
-As mentioned, Solidity is a programming language exclusively developed to write smart contracts. Previously, SC functionality and development was accessible through various languages, including C++, Java and Python. However, none of these programming languages were designed specifically for this purpose, thus unable to accommodate a smart contract code that is convenient, easily scalable, and effective. 
+Previously, SC functionality and development was accessible through various languages, including C++, Java and Python. However, none of these programming languages were designed specifically for this purpose, thus unable to accommodate a smart contract code that is convenient, easily scalable, and effective. 
 
 In simple terms, the existing programming languages were simply not created for developing smart contracts. Thus, Ethereum creators decided to remedy this issue and construct a new language.
 
