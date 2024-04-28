@@ -13,17 +13,20 @@ Introducing smart contract functionality is one of the most promising aspects of
 • Its functionality allows developers to craft smart contracts swiftly, efficiently, and without technical complications. 
 
 ### First things First: What Is EVM and Smart Contract?
+
 To truly understand the nature and implications of Solidity, it is vital to first familiarise ourselves with EVM and smart contracts. EVM stands for Ethereum Virtual Machine, a supercomputer behind the entire Ethereum network and its operations.
 
 ![Ethereum Virtual Machine](https://github.com/mainishanhoon/Solidity/assets/110257833/2f45a01c-9b09-4a1d-a06e-b271f5446b55)
 
-It is widely known that Ethereum is the most advanced and feature-rich network among the flagship crypto offerings, boasting more functionality than even Bitcoin itself. EVM is responsible for Ethereum’s unrivalled functionality, as it facilitates every activity on the network. However, validating and processing transactions is old news for blockchain networks. Where EVM gets interesting is its ability to produce smart contracts within the system. 
-Smart contracts (SCs) are the bread and butter of Ethereum, responsible for creating NFTs, decentralised applications, Web 3.0 tools, Metaverse video games and more.
+It is widely known that Ethereum is the most advanced and feature-rich network among the flagship crypto offerings, boasting more functionality than even Bitcoin itself. EVM is responsible for Ethereum’s unrivalled functionality, as it facilitates every activity on the network. 
+
+However, validating and processing transactions is old news for blockchain networks. Where EVM gets interesting is its ability to produce smart contracts within the system. Smart contracts (SCs) are the bread and butter of Ethereum, responsible for creating NFTs, decentralised applications, Web 3.0 tools, Metaverse video games and more.
 
 ![Working of Smart Contract](https://github.com/mainishanhoon/Solidity/assets/110257833/baf859cc-e9d1-41ba-85af-3a450b8c2dba)
 
-In simple terms, SCs are the communication language that connects blockchain with any desired software.
-The combination of EVM and smart contracts has catapulted Ethereum to the forefront of blockchain innovations. After all, these functionalities were why Ethereum reached astronomical heights of success in the last decade. In 2024, Ethereum remains the biggest supporter of SC functionality and technological innovations related to blockchain methodology. With Solidity, Ethereum has again introduced an excellent mechanism to simplify creating smart contracts and building a decentralised digital future.
+In simple terms, SCs are the communication language that connects blockchain with any desired software. The combination of EVM and smart contracts has catapulted Ethereum to the forefront of blockchain innovations. After all, these functionalities were why Ethereum reached astronomical heights of success in the last decade.
+
+In 2024, Ethereum remains the biggest supporter of SC functionality and technological innovations related to blockchain methodology. With Solidity, Ethereum has again introduced an excellent mechanism to simplify creating smart contracts and building a decentralised digital future.
 
 ![Timeline](https://github.com/mainishanhoon/Solidity/assets/110257833/e9bf8bb1-14bf-49bf-8e9a-5731ec7f6940)
 
@@ -34,10 +37,13 @@ In simple terms, the existing programming languages were simply not created for 
 
 ![What is Solidity](https://github.com/mainishanhoon/Solidity/assets/110257833/b6d23e46-9c37-4b06-8c84-25e9be5c9710)
 
-In 2021, the world witnessed the first significant glimpse at this project. Many developers across the globe became excited about Solidity and its built-in smart contract function, accommodating the dApp construction with unprecedented ease and simplicity. However, the most significant point of interest was Solidity’s advantage of compiling and translating the written code to the EVM. 
-Previously, this process was quite cumbersome and problematic, as the popular programming languages were not designed to “speak” with the Ethereum virtual machine. Therefore, the smart contract development process was difficult and riddled with technical errors. With Solidity, the SC development process has become much more straightforward, as this novel language was specifically designed to be compatible with EVM. 
+In 2021, the world witnessed the first significant glimpse at this project. Many developers across the globe became excited about Solidity and its built-in smart contract function, accommodating the dApp construction with unprecedented ease and simplicity. 
+
+However, the most significant point of interest was Solidity’s advantage of compiling and translating the written code to the EVM. 
+Previously, this process was quite cumbersome and problematic, as the popular programming languages were not designed to “speak” with the Ethereum virtual machine. Therefore, the smart contract development process was difficult and riddled with technical errors.
+
+With Solidity, the SC development process has become much more straightforward, as this novel language was specifically designed to be compatible with EVM. 
 While Solidity was a brand-new tool in the digital tool shed for programmers, Ethereum creators have taken best practices from the existing languages. Thus, despite its novelty, Solidity feels like a familiar programming language through and through. 
-Its object-oriented nature was similar to C++, Java and other established names in the programming industry. The data types and inheritance functions were also added, making constructing complex functions and features for decentralised applications simple. Solidity became one of the first native languages to Ethereum without sacrificing the established norms in the programming landscape.
 
 ## Why Solidity And Smart Contracts Are Essential For Web 3.0?
 So, Solidity is quite a big deal in decentralised programming, as it allows developers to craft smart contracts and complex digital tools easily. But why is Solidity, and SC development in general, so important for the future of Web 3.0? The answer is quite simple – smart contracts are the gateway to unlocking the next chapter in the blockchain roadmap. 
