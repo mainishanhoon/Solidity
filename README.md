@@ -63,10 +63,10 @@ While the benefits of Solidity are plentiful and extremely promising for the fut
 
 ![Practical Implications](https://github.com/mainishanhoon/Solidity/assets/110257833/7a6e5804-18a3-4736-9cf0-3cd3fecad573)
 
-## Supply Chain Management 
+## • Supply Chain Management 
 The supply chains are some of the most excruciating and time-consuming tasks for any business. It takes several managers, daily correspondence, frequent inspections and rigorous monitoring to fulfil the necessary daily orders. While digital tools help out in this struggle, supply chain management is still far from an ideal solution. 
 With smart contracts, supply chain management can sometimes be simplified or even trivialised. The automated contracts will allow business owners to account for any conceivable development in the supply chain and program appropriate responses. Delivery is late? SCs can automatically notify the suppliers. Is the payment due? SCs can automatically send the cash to suppliers as per the receipts. The entire system can flow like water with the integration of smart contracts. 
 
-## Healthcare
+## • Healthcare
 It is no secret that healthcare is one of the most sensitive industries regarding private and personal data. While digital inventions simplify patient recording efforts, they are not secure or confidential. With SCs and the general decentralised functionality, patient information can become completely anonymous across the digital hospital servers. With this technology, patients can become confident that their data is observed and analysed only by the relevant figures and nobody else. 
 Additionally, SCs can assist hospitals and clinics in sharing data across the world in seconds, which will help doctors retrieve the latest updates on clinical trials and possibly even prevent global pandemics. Promptly retrieving data is paramount in the medical industry, and SCs can permanently solve this issue.
