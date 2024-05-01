@@ -1,4 +1,4 @@
-## Understanding Solidity: Building Smart Contracts for Everyone
+## Understanding Solidity: Building Smart Contracts
 ![Understanding_Solidity](https://github.com/mainishanhoon/Solidity/assets/110257833/4ae8c534-92a6-487b-a867-883e5c728f62)
 
 The blockchain world has evolved tremendously in a short span of 14 years since its modest beginnings. In 2009, the only value stemming from blockchain technology was Bitcoin and its virtual currency.
